@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.pdb
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.Form1.resources
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.Properties.Resources.resources
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.exe
+C:\Users\Kevin\source\repos\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.pdb
